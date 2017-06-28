@@ -1,0 +1,8 @@
+Ingredients:
+- Cereal
+- Milk
+
+Directions:
+  1. Find a nice bowl
+  2. Fill the bowl with cereal
+  3. Pour the milk over the cereal. If you want your cereal crunchy, don't add too much milk; If you want your cereal soft, pour more milk. 
